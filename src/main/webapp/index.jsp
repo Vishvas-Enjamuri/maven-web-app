@@ -1,6 +1,6 @@
 <!doctype html>
 <title>Hello from Vishvas</title>
-<body style="background: #16a085;"></body>
+<body style="background: #ff6347;"></body>
 <div style="color: #e4e4e4;
     text-align:  center;
     height: 90px;
