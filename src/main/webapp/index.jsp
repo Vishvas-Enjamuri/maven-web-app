@@ -1,11 +1,16 @@
-<html>
-<body>
-<h1><font color='red'>Welcome to Ashok IT <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<!doctype html>
+<title>Hello from Vishvas</title>
+<body style="background: #16a085;"></body>
+<div style="color: #e4e4e4;
+    text-align:  center;
+    height: 90px;
+    vertical-align:  middle;">
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h1>Hello from Vishvas Enjamuri !</h1>
 
-</body>
-</html>
+  <h1>Hello, World!</h1>
+
+  <h2>
+    Application Version: V1
+  </h2>
+</div>
